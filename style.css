@@ -1,0 +1,19 @@
+body{
+    background-color:#2f4f4f;
+    color: darkturquoise;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+#camera{
+    border: 2px solid palegreen;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color-scheme: normal ;
+}
+.heading:hover{
+    background-color: lime;
+}
